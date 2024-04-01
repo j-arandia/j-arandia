@@ -1,3 +1,5 @@
+:nerd_face::waving_hand:
+
 Recent Computer Programming and Analysis Graduate, earned advanced diploma, and dean's honour roll doe three terms in a row with 4.0 GPA. Experienced at IT field for two years as an Technical Support and Computer Programmer Analyst. 
 
 I currently reside in Ontario, Canada but I'm open to explore other provinces in Canada if it's needed at work. Formely worked at Fanshawe College, Walmart and Boshart Industries.
@@ -19,3 +21,6 @@ I currently reside in Ontario, Canada but I'm open to explore other provinces in
 
 ### Contact
 Reach me on [LinkedIn](https://www.linkedin.com/in/jass-arandia-a30a1772/)
+
+> [!NOTE]
+> README.me under construction look forward for more information later on.
