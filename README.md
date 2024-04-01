@@ -2,3 +2,18 @@ Recent Computer Programming and Analysis Graduate, earned advanced diploma, and 
 
 I currently reside in Ontario, Canada but I'm open to explore other provinces in Canada if it's needed at work. Formely worked at Fanshawe College, Walmart and Boshart Industries.
 
+#Technologies
+Back-end Languages
+Front-end Languages
+IDE
+Data
+Object Oriented Programming, Software Design Patterns,
+Operating Systems
+
+
+#Work
+Fanshawe College
+Boshart Industries
+
+#Contact
+Reach me on LinkedIn
