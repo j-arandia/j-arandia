@@ -20,7 +20,7 @@ I currently reside in Ontario, Canada but I'm open to explore other provinces in
 - **Boshart Industries**
 
 ### Contact
-Reach me on [LinkedIn](https://www.linkedin.com/in/jass-arandia-a30a1772/)
+You can reach me at [LinkedIn](https://www.linkedin.com/in/jass-arandia-a30a1772/)
 
 > [!NOTE]
 > README.me under construction look forward for more information later on.
